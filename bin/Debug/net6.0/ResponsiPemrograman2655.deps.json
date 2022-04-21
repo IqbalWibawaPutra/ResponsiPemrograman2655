@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ResponsiPemrograman2655/1.0.0": {
+        "runtime": {
+          "ResponsiPemrograman2655.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResponsiPemrograman2655/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

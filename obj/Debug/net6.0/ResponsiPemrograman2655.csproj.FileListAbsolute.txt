@@ -1,0 +1,15 @@
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\bin\Debug\net6.0\ResponsiPemrograman2655.exe
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\bin\Debug\net6.0\ResponsiPemrograman2655.deps.json
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\bin\Debug\net6.0\ResponsiPemrograman2655.runtimeconfig.json
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\bin\Debug\net6.0\ResponsiPemrograman2655.dll
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\bin\Debug\net6.0\ResponsiPemrograman2655.pdb
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.csproj.AssemblyReference.cache
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.AssemblyInfoInputs.cache
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.AssemblyInfo.cs
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.csproj.CoreCompileInputs.cache
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.dll
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\refint\ResponsiPemrograman2655.dll
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.pdb
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ResponsiPemrograman2655.genruntimeconfig.cache
+D:\KULIAH SEM 6\Pemrog\responsi\ResponsiPemrograman2655\ResponsiPemrograman2655\obj\Debug\net6.0\ref\ResponsiPemrograman2655.dll
